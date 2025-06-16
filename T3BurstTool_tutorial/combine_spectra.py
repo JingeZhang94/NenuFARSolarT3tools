@@ -1,7 +1,6 @@
 import os
 import numpy as np
 import h5py
-from nenupy.io.tf import Spectra, TFTask, TFPipeline
 import astropy.units as u
 from scipy.interpolate import interp1d
 import matplotlib.pyplot as plt

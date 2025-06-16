@@ -52,5 +52,5 @@ This repository provides:
 
 1. **Clone this repo**  
    ```bash
-   git clone https://github.com/your-username/T3BurstTool.git
+   git clone https://github.com/JingeZhang94/NenuFARSolarT3tools.git
    cd T3BurstTool
